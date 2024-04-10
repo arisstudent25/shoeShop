@@ -92,17 +92,20 @@ body{
     width:100px;
 border-radius: 50%;
 border: solid 10px red;
+margin-top: 10px;
   }
   .hoverSite:hover{
     border:solid 10px  rgb(51, 181, 62);
     }
   .display{
     display: flex;
+    border-radius: 40px;
     justify-content:space-around;
+    background: linear-gradient(rgb(198, 123, 53),white);
   }
   .part3{
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom:0px;
     background-color: black;
     border-radius: 40px;
     color:antiquewhite;

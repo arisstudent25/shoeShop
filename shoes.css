@@ -1,115 +1,115 @@
 body{
-    text-align: center;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+  text-align: center;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 #shoeMix{
-    height:130px;
+  height:130px;
 }
 .paytone-one-regular {
-    font-family: "Paytone One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    background-color: black;
-    color: white;
-    width:500px;
-    letter-spacing: 5px;
-    padding: 10px 5px;
-    margin: 20px auto;
-    text-shadow:0px 0px 10px grey;
-    border-radius: 10px;
-  }
-  .container{
-    display: flex;
-    justify-content: center;
-    width: auto;
-    text-align: center;
-    margin-bottom: 60px;
-  
-  }
-  .shoes{
-    height: 400px;
-  }
-  .shoes2{
-    height: 200px;
-  }
-  .text{
-    padding: 50px;
-    width: 400px;
-    background-color: black;
-    color: antiquewhite;
-    letter-spacing: 3px;
-    font-size: 15.5px;
-  }
-  .text2{
-    padding: 50px;
-    height: 200px;
-    width: 400px;
-    background-color: black;
-    color: antiquewhite;
-    letter-spacing: 3px;
-    font-size: 15.5px;
-  }
-  .btn{
-    background-color: rgb(51, 181, 62);
-    height: 70px;
-    width: 200px;
-    padding: 5px;
-    border: double black;
-    color:black;
-    font-size: 20px;
-    border-radius:20px;
-    margin-bottom: 50px;
-    font-weight: 600;
-  }
-  .btn2{
-  background-color: rgb(134, 124, 124);
+  font-family: "Paytone One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: black;
+  color: white;
+  width:500px;
+  letter-spacing: 5px;
+  padding: 10px 5px;
+  margin: 20px auto;
+  text-shadow:0px 0px 10px grey;
+  border-radius: 10px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  text-align: center;
+  margin-bottom: 60px;
+
+}
+.shoes{
+  height: 400px;
+}
+.shoes2{
+  height: 200px;
+}
+.text{
+  padding: 50px;
+  width: 400px;
+  background-color: black;
+  color: antiquewhite;
+  letter-spacing: 3px;
+  font-size: 15.5px;
+}
+.text2{
+  padding: 50px;
+  height: 200px;
+  width: 400px;
+  background-color: black;
+  color: antiquewhite;
+  letter-spacing: 3px;
+  font-size: 15.5px;
+}
+.btn{
+  background-color: rgb(51, 181, 62);
   height: 70px;
   width: 200px;
   padding: 5px;
-  border: dashed black;
-  color: black;
+  border: double black;
+  color:black;
   font-size: 20px;
-  border-radius: 5%;
-  margin-bottom:50px ;
+  border-radius:20px;
+  margin-bottom: 50px;
   font-weight: 600;
-  text-shadow: 0px 0px 3px white;
-  }
-  .hoverstyle2:hover{
-    text-shadow: 0px 0px 3px rgb(137, 127, 127);
-    border: dashed goldenrod;
-    background-color:black ;
-    color: goldenrod;
-  }
- .hoverstyle:hover{
-    color: rgb(51, 181, 62);
-    background-color: black;
-    border: double  rgb(51, 181, 62);
-  }
-  .siteSize{
-    height: 100px;
-    width:100px;
+}
+.btn2{
+background-color: rgb(134, 124, 124);
+height: 70px;
+width: 200px;
+padding: 5px;
+border: dashed black;
+color: black;
+font-size: 20px;
+border-radius: 5%;
+margin-bottom:50px ;
+font-weight: 600;
+text-shadow: 0px 0px 3px white;
+}
+.hoverstyle2:hover{
+  text-shadow: 0px 0px 3px rgb(137, 127, 127);
+  border: dashed goldenrod;
+  background-color:black ;
+  color: goldenrod;
+}
+.hoverstyle:hover{
+  color: rgb(51, 181, 62);
+  background-color: black;
+  border: double  rgb(51, 181, 62);
+}
+.siteSize{
+  height: 100px;
+  width:100px;
 border-radius: 50%;
 border: solid 10px red;
 margin-top: 10px;
+}
+.hoverSite:hover{
+  border:solid 10px  rgb(51, 181, 62);
   }
-  .hoverSite:hover{
-    border:solid 10px  rgb(51, 181, 62);
-    }
-  .display{
-    display: flex;
-    border-radius: 40px;
-    justify-content:space-around;
-    background: linear-gradient(rgb(198, 123, 53),white);
-  }
-  .part3{
-    margin-top: 20px;
-    margin-bottom:0px;
-    background-color: black;
-    border-radius: 40px;
-    color:antiquewhite;
-    font-family: "Paytone One", sans-serif;
-    font-weight: 400;
-    text-shadow:0px 0px 10px grey;
-  }
+.display{
+  display: flex;
+  border-radius: 40px;
+  justify-content:space-around;
+  background: linear-gradient(rgb(198, 123, 53),white);
+}
+.part3{
+  margin-top: 20px;
+  margin-bottom:0px;
+  background-color: black;
+  border-radius: 40px;
+  color:antiquewhite;
+  font-family: "Paytone One", sans-serif;
+  font-weight: 400;
+  text-shadow:0px 0px 10px grey;
+}
